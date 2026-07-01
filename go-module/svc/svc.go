@@ -1,4 +1,4 @@
-package svcpkg
+package svc
 
 func Hello() string {
 	return "Hello Service"
